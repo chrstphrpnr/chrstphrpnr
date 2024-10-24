@@ -4,7 +4,6 @@
 
 
 # 💻 Tech Stack:
-<div>
 
 Languages & Frameworks: <br>
 <div style="margin-top:10dp">
@@ -94,7 +93,6 @@ Notes:
 </div>
 
 
-</div>
 
 
 # 📊 GitHub Stats:
