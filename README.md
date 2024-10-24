@@ -4,7 +4,7 @@
 
 
 # 💻 Tech Stack:
-
+<div>
 Languages & Frameworks: 
 <div style="margin-top:10dp;">
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -92,7 +92,7 @@ Notes:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 </div>
 
-
+</div>
 
 
 # 📊 GitHub Stats:
