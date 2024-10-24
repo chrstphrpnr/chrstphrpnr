@@ -1,4 +1,4 @@
-# Commits
+# Contributions
 [![](https://visitcount.itsvg.in/api?id=chrstphrpnr&icon=5&color=12)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/chrstphrpnr/chrstphrpnr/blob/output/github-snake-dark.svg)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
