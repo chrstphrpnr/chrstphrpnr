@@ -50,10 +50,29 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chrstphrpnr&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=chrstphrpnr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrstphrpnr&theme=onedark&hide_border=false" />
+      </td>
+    </tr>
+    <tr>
+      <td >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrstphrpnr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 500px;" />
+      </td>
+      <td>
+        <img src="https://github-contributor-stats.vercel.app/api?username=chrstphrpnr&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=chrstphrpnr&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrstphrpnr&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chrstphrpnr&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
