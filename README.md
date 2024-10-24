@@ -1,5 +1,8 @@
+# Commits
 ![snake gif](https://github.com/chrstphrpnr/chrstphrpnr/blob/output/github-snake-dark.svg)
 [![](https://visitcount.itsvg.in/api?id=chrstphrpnr&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -77,8 +80,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chrstphrpnr&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 ## 🌐 Socials:
