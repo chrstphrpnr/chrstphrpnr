@@ -3,11 +3,10 @@
 ![snake gif](https://github.com/chrstphrpnr/chrstphrpnr/blob/output/github-snake-dark.svg)
 
 
-
 # 💻 Tech Stack:
 <div>
 Languages & Frameworks: 
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
 
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
@@ -23,7 +22,7 @@ Languages & Frameworks:
 
 
 Frontend:
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
   
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -42,7 +41,7 @@ Frontend:
 
 
 Databases: 
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
@@ -53,7 +52,7 @@ Databases:
 
 
 Server & Hosting: 
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
@@ -65,7 +64,7 @@ Server & Hosting:
 </div>
 
 DevOps & Tools:
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
@@ -79,7 +78,7 @@ DevOps & Tools:
 
 
 CMS: 
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) 
 ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) 
@@ -88,7 +87,7 @@ CMS:
 
 
 Design & Prototyping: 
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
@@ -98,7 +97,7 @@ Design & Prototyping:
 </div>
 
 Notes: 
-<div style="margin-top:10dp;">
+<div style="margin-top:5dp;">
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 
@@ -139,5 +138,6 @@ Notes:
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christopher-p-90066220a/) 
+
 
 
