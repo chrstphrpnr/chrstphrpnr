@@ -1,4 +1,5 @@
-
+![snake gif](https://github.com/chrstphrpnr/chrstphrpnr/blob/output/github-snake-dark.svg)
+[![](https://visitcount.itsvg.in/api?id=chrstphrpnr&icon=5&color=12)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -64,5 +65,4 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christopher-p-90066220a/) 
 
-[![](https://visitcount.itsvg.in/api?id=chrstphrpnr&icon=5&color=12)](https://visitcount.itsvg.in)
 
